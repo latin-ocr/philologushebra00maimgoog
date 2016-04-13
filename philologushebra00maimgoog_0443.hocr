@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./philologushebra00maimgoog/philologushebra00maimgoog_0443.png"; bbox 0 0 3416 4576; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 394 217 2765 659">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 394 217 2765 659">
+     <span class='ocr_line' id='line_1_1' title="bbox 801 217 2740 380; baseline 0.013 -46"><span class='ocrx_word' id='word_1_1' title='bbox 801 264 948 352; x_wconf 76' lang='lat' dir='ltr'>De</span> <span class='ocrx_word' id='word_1_2' title='bbox 985 256 1443 346; x_wconf 77' lang='lat' dir='ltr'><em>Nominibus</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1486 253 1660 345; x_wconf 73' lang='lat' dir='ltr'>Dei</span> <span class='ocrx_word' id='word_1_4' title='bbox 1698 217 2146 345; x_wconf 58' lang='lat' dir='ltr'>Hebraictssr.</span> <span class='ocrx_word' id='word_1_5' title='bbox 2581 297 2740 380; x_wconf 71' lang='lat'>373</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 394 405 2765 506; baseline 0.003 -7"><span class='ocrx_word' id='word_1_6' title='bbox 394 420 1230 500; x_wconf 71' lang='lat' dir='ltr'>mssER’rATm.</span> <span class='ocrx_word' id='word_1_7' title='bbox 1291 405 2644 506; x_wconf 65' lang='lat' dir='ltr'>TRIGEslMA-SECUNDA2</span> <span class='ocrx_word' id='word_1_8' title='bbox 2739 458 2765 483; x_wconf 89' lang='lat'><strong>·</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 515 546 2010 659; baseline 0.016 -45"><span class='ocrx_word' id='word_1_9' title='bbox 515 576 520 584; x_wconf 91' lang='lat'><em>-</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1180 562 1373 659; x_wconf 53' lang='lat' dir='ltr'>gv</span> <span class='ocrx_word' id='word_1_11' title='bbox 1423 554 1564 631; x_wconf 66' lang='lat' dir='ltr'>AE‘</span> <span class='ocrx_word' id='word_1_12' title='bbox 1616 568 1680 635; x_wconf 80' lang='lat' dir='ltr'><em>E</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1729 567 1781 634; x_wconf 76' lang='lat' dir='ltr'><em>s</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1824 564 1942 634; x_wconf 87' lang='lat' dir='ltr'>T.</span> <span class='ocrx_word' id='word_1_15' title='bbox 2002 546 2010 554; x_wconf 82' lang='lat'>&#39;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 316 703 2740 993">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 316 703 2740 993">
+     <span class='ocr_line' id='line_1_4' title="bbox 316 703 2740 993; baseline 0.002 -24"><span class='ocrx_word' id='word_1_16' title='bbox 316 840 1274 969; x_wconf 84' lang='lat' dir='ltr'>NOMINIBUS</span> <span class='ocrx_word' id='word_1_17' title='bbox 1404 703 1745 959; x_wconf 43' lang='lat'>3131</span> <span class='ocrx_word' id='word_1_18' title='bbox 1832 833 2740 993; x_wconf 77' lang='lat' dir='ltr'>HEBRAICIS‚</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 952 1034 2142 1111">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 952 1034 2142 1141">
+     <span class='ocr_line' id='line_1_5' title="bbox 952 1034 2142 1111; baseline -0.003 0"><span class='ocrx_word' id='word_1_19' title='bbox 952 1042 1189 1111; x_wconf 77' lang='lat' dir='ltr'>PARs</span> <span class='ocrx_word' id='word_1_20' title='bbox 1241 1038 1535 1107; x_wconf 69' lang='lat' dir='ltr'>SnxTA</span> <span class='ocrx_word' id='word_1_21' title='bbox 1586 1039 1655 1105; x_wconf 84' lang='lat'>&amp;</span> <span class='ocrx_word' id='word_1_22' title='bbox 1708 1034 2142 1108; x_wconf 61' lang='lat' dir='ltr'>Utrum.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
